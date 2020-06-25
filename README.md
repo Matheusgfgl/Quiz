@@ -1,7 +1,6 @@
-![Ecoleta]()
 
 ## :computer:  O projeto
-App desenvolvido na Next Level Week da Rockeat Seat, o ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+App Quiz desenvolvido.
 
 ![Ecoleta](https://github.com/Matheusgfgl/ecoleta-app/blob/master/ecoleta.png)
 
